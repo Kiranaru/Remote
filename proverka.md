@@ -9,8 +9,9 @@
 
 If you would like to add new changings you will have to do ADD, and then COMMIT -M
 
-**bold chicks** 
+# First steps on GIT
 
-*cursive chicks*
+At the beginning with git you have to predent yourself. You have to make two orders^
+* git config --global user.name *«Ваше имя английскими буквами»*
 
-**COOooooL BUCKS**
+* git config --global user.email *"Имя.ваша почта@example.com"*
