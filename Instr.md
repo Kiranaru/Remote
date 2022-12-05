@@ -9,22 +9,21 @@
 
 If you would like to add new changings you will have to do ADD, and then COMMIT -M
 
-# First steps on GIT
+# First steps on GIT #
 
 At the beginning with git you have to predent yourself. You have to make two orders^
 * git config --global user.name *«Ваше имя английскими буквами»*
 
-* git config --global user.email *"Имя.ваша почта@example.com"*
+* git config --global user.email *"Имя.ваша почта@example.com" 
 
-```python
 while 
 git config --global user.name «Ваше имя английскими буквами»
 git config --global user.email ваша почта@example.com
 https://git-scm.com/book/ru/v2
 С.Чакон, Б.Штрауб - Git для профессионального программиста (2016)
 =======
-# MarkDown forever! #
-## Вводные данные ##
+# MarkDown forever! 
+## Вводные данные 
 
 *Список буллетов*
 * Буллет 1
@@ -62,4 +61,4 @@ https://git-scm.com/book/ru/v2
 
  ## 9. Создание веток в Git
 
-Команда **git checkout -b createBranches** создает новую ветку по имени *createBranches* и сразу перелетает в нее.
+Команда *git checkout -b createBranches *создает новую ветку по имени *createBranches* и сразу перелетает в нее.
