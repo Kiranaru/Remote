@@ -6,5 +6,5 @@
 * Буллет 2
 
 **Is he BOLD?**
-*Does __Marselles Walles__ look like a bitch???*
+*Does __Marselles Walles__ look like a Git???*
 
