@@ -64,3 +64,5 @@ https://git-scm.com/book/ru/v2
  ## 9. Создание веток в Git
 
 Команда **git checkout -b createBranches**  создает новую ветку по имени *createBranches* и сразу перелетает в нее.
+
+Команда **git branch -d createBranches**  удаляет  ветку по имени *createBranches*.
