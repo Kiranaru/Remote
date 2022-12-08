@@ -72,3 +72,6 @@ https://git-scm.com/book/ru/v2
 ## 11. Удаление веток.
 
 ## 12. Работа с удаленным репозиторием на GitHub
+
+* 1. Закачка данных на удаленный репозиторий
+ **git remote add origin https://github.com/Kiranaru/Remote.git**
